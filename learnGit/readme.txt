@@ -6,4 +6,3 @@ Now, let's start.(I'am chinese ,not good at English,so...I hope you can remember
 
 1、Speedtest
 It could test download speed,upload speed.
-sdfs
